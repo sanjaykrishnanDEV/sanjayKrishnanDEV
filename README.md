@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm  a full stack developer working on MERN stack technologies,<br>Passionate about making responsive , optimized websites and web-apps <br>on Cutting edge tech stacks.
+Hi Im sanjay ,software Engineer.
 
 
 ## 🌐 Socials:
